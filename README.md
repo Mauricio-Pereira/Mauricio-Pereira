@@ -1,7 +1,7 @@
 <h2 style="color: #70a5fd;">Hello, I am Mauricio Pereira!</h2>
 
 ### 👷 I am a software developer with a passion for Java and Spring Boot. 
-### 👨🏽‍🏫 I am currently studying Computer Science at the Faculdade de Administração e Informática Paulista (FIAP).
+### 👨🏽‍🏫 I am currently studying Computer Science at the Faculdade de Informática e Administração Paulista (FIAP).
 ### 🚀 I am looking for opportunities to grow and learn in the field of software development.
 
 <div style="display: flex; justify-content: space-around;">
