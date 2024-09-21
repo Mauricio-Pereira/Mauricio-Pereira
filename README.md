@@ -6,8 +6,8 @@
 
 <div style="display: flex; justify-content: space-around;">
     <a href="https://github.com/Mauricio-Pereira">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mauricio-Pereira&show_icons=true&theme=tokyonight" alt="Karanalpe Status" style="height: 200px; width: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pereira&layout=compact&theme=tokyonight&show_icons=true&hide=jupyter%20notebook" alt="Top Linguagens" style="height: 200px; width: auto;"> </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mauricio-Pereira&show_icons=true&theme=tokyonight" alt="Karanalpe Status" style="height: 180px; width: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pereira&layout=compact&theme=tokyonight&show_icons=true&hide=jupyter%20notebook" alt="Top Linguagens" style="height: 180px; width: auto;"> </a>
 </div>
 
 
